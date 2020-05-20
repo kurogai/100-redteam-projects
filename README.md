@@ -10,7 +10,6 @@ I recommend to do it, on your less handfull programming language, doing those pr
 If you enjoy it, please take a time to recommend for a friend, and follow me, i will be happy for that :) .
 And remember, with great power, comes... (we already know).
 
-==========================================================================================================================
 ---------------------------------------------------------------------------------------------
 Level 1 | Basic Stuff
 ------------------------------------------------|--------------------------------------------
@@ -130,16 +129,19 @@ Level 4 | Data analys, payloads and more Networking
 [99] | Antivirus evader
 [100] | Your own metasploit module
 ------------------------------------------------------------------------------------------
-==========================================================================================================================
-My email: heberjulio65@gmail.com
-
 ## Adding your examples
 
 You can make a pull request for the folder "Projects", do it according with your project specifications:
 
+'''
 [Id] Name - <Language> | Autor
+ '''
 
 Example:
 
+'''
 [91] Web exploit framework - <C> | Heber Julio
+ '''
+ 
+My email: heberjulio65@gmail.com
 ==========================================================================================================================
