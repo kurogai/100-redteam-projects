@@ -1,4 +1,8 @@
-![RedTeam Logo](/images/red.png)
+
+<p align="center"> 
+    <img src="/images/red.png">
+</p>
+                                                                       
 # 100  Red Team Projects for Pentesters and Network Managers
 
 Red Team Field is one of the most atracting fields in Offensive Security, ever day, professionals and students are learning, creating and exploiting ever type of system. Today where internet is the most common place where people join and chat together, they are exposed in a world where anyone can be monitored, exploited, tracked, or scammed.
