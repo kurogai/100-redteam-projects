@@ -140,7 +140,7 @@ Level 4 | Data analysis, payloads and more networking
 [92] | Botnet with SSH C&C and automatic server backup to prevent loss of control
 [93] | Windows enumeration tool
 [94] | Application information gathering (after shell)
-[95] | TCP-dump
+[95] | Recreate TCPDUMP
 [96] | Bluetooth exploit
 [97] | Windows Blue Screen Exploit
 [98] | Encoded exploit
@@ -159,8 +159,5 @@ compliance with the following convention:
 #### Example:
 
 ```
-[91] Web Exploitation Framework - <C> | Heber Julio
+[91] Web Exploitation Framework - <C> | EONRaider
 ```
- 
-## Contact
-Email: heberjulio65@gmail.com
