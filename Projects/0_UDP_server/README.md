@@ -3,7 +3,7 @@
 
 https://user-images.githubusercontent.com/32443720/133181445-82ca16e0-a9ff-4eb1-b01a-c21e6dc64be9.mp4
 
-## :information_source:  Tecnologias Usadas
+## :information_source:  technologies used
 
 * Python
 
