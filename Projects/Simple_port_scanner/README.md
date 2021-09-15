@@ -11,7 +11,7 @@
 $ git clone https://github.com/kurogai/100-redteam-projects
 
 # Enter the repository
-$ cd 100-redteam-projects/Simple_port_scanner
+$ cd 100-redteam-projects/Projects/Simple_port_scanner
 
 # Open a terminal and run
 $ javac PortScanner.java
