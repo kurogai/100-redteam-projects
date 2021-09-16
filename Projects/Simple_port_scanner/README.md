@@ -1,9 +1,9 @@
-# [11] Simple Port Scanner
+# Simple Port Scanner
 
 
 ## :information_source:  technologies used
 
-* JAVA
+* Java
 
 ## :information_source: How use?
 ```bash
@@ -14,10 +14,10 @@ $ git clone https://github.com/kurogai/100-redteam-projects
 $ cd 100-redteam-projects/Projects/Simple_port_scanner
 
 # Open a terminal and run
-$ javac PortScanner.java
+$ java -jar Simple_port_scanner.jar targetIP
 
-#Example usage
-$ java PortScanner 127.0.0.1
+# example Usage
+$ java -jar Simple_port_scanner.jar 127.0.0.1
 
 ```
 

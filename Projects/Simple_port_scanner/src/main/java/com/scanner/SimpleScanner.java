@@ -1,4 +1,4 @@
-package Projects.Simple_port_scanner;
+package com.scanner;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
@@ -11,10 +11,11 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class PortScanner {
+public class SimpleScanner {
+
 
     public static void main(String[] args) {
-        // verification if has ip target 
+        // verification if has ip target
         if(args.length == 1){
             String ipTarget = args[0];
             List openPorts = portScan(ipTarget);
@@ -62,5 +63,4 @@ public class PortScanner {
         }
         return openPortList;
     }
-
 }
