@@ -1,5 +1,6 @@
 # Simple Port Scanner
 
+![image](https://user-images.githubusercontent.com/32443720/133543195-d2d82cc6-0f8b-40bc-81d5-74de6ff130e2.png)
 
 ## :information_source:  technologies used
 
