@@ -3,8 +3,8 @@
 
 NOTE: Make sure that the terminals running the scripts are separate
 
-![alt text](https://github.com/alisimran/100-redteam-projects
-/blob/Projects/0_TCP_server/tcpserver.png?raw=true)
+
+![alt text](https://github.com/alisimran/100-redteam-projects/blob/master/Projects/0_TCP_server/tcpserver.png)
 
 ## :information_source:  technologies used
 
