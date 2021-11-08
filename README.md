@@ -86,32 +86,32 @@ Level 3 | Advanced Network Attacks | exemple
 -------------------------------------------------------------------------------------------------------------------------------------------
 Level 4 | Data analysis, payloads and more networking | exemple
 ------------------------------------------------|------------------------------------------|-----------------------------------------------
-[45] | Packet Data analysis | -[]
-[46] | Packet image analysis with OpenCV | -[]
-[47] | Develop a hexdump tool | -[]
-[48] | Payload that moves the mouse cursor | -[]
-[49] | Vigenère Cipher | -[]
-[50] | Payload that starts automatically using Windows Regedit | -[]
-[51] | Payload that starts as a daemon | -[]
-[52] | Payload that retrieves browser information | -[]
-[53] | Link generator | -[]
-[54] | ASCII Name generator [ just for fun :) ]  | -[]
-[55] | Full chat server with private messages, file and image transfer | -[]
-[56] | Simple firewall | -[]
-[57] | Gateway | -[]
-[58] | Powershell payload generator | -[]
-[59] | Bash payload generator | -[]
-[60] | Subdomain enumerator | -[]
-[61] | DNS Enumerator | -[]
-[62] | Your own interpreter | -[]
-[63] | Develop a Worm | -[]
-[64] | Server for DDOS | -[]
-[65] | Implement an IP Tracker | -[]
-[66] | BurpSuite extender | -[]
-[67] | Develop a Trojan | -[]
-[68] | Man In The Browser tool (kind of) | -[]
-[69] | Process monitor (Windows and Linux) | -[]
-[70] | Windows token privilege escalation tool | -[]
+[45] | Packet Data analysis | :x:
+[46] | Packet image analysis with OpenCV | :x:
+[47] | Develop a hexdump tool | :x:
+[48] | Payload that moves the mouse cursor | :x:
+[49] | Vigenère Cipher | :x:
+[50] | Payload that starts automatically using Windows Regedit | :x:
+[51] | Payload that starts as a daemon | :x:
+[52] | Payload that retrieves browser information | :x:
+[53] | Link generator | :x:
+[54] | ASCII Name generator [ just for fun :) ]  | :x:
+[55] | Full chat server with private messages, file and image transfer | :x:
+[56] | Simple firewall | :x:
+[57] | Gateway | :x:
+[58] | Powershell payload generator | :x:
+[59] | Bash payload generator | :x:
+[60] | Subdomain enumerator | :x:
+[61] | DNS Enumerator | :x:
+[62] | Your own interpreter | :x:
+[63] | Develop a Worm | :x:
+[64] | Server for DDOS | :x:
+[65] | Implement an IP Tracker | :x:
+[66] | BurpSuite extender | :x:
+[67] | Develop a Trojan | :x:
+[68] | Man In The Browser tool (kind of) | :x:
+[69] | Process monitor (Windows and Linux) | :x:
+[70] | Windows token privilege escalation tool | :x:
 
 -------------------------------------------------------------------------------------------------------------------------------------------
  Level 5 | Cryptography, Reverse Engineering and Post exploitation | exemple
