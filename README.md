@@ -66,7 +66,7 @@ Level 2 | Essential | Exemple
 [29] | SQLi database retriever | :x:
 [30] | Spam creator | :x:
 -------------------------------------------------------------------------------------------------------------------------------------------
-Level 3 | Advanced Network Attacks | exemple
+Level 3 | Advanced Network Attacks | Exemple
 ------------------------------------------------|-------------------------------------------|----------------------------------------------
 [31] | Payload for reverse shell | :x:
 [32] | Payload to capture screenshots | :x:
@@ -84,7 +84,7 @@ Level 3 | Advanced Network Attacks | exemple
 [44] | Packet Capture tool | :x:
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-Level 4 | Data analysis, payloads and more networking | exemple
+Level 4 | Data analysis, payloads and more networking | Exemple
 ------------------------------------------------|------------------------------------------|-----------------------------------------------
 [45] | Packet Data analysis | :x:
 [46] | Packet image analysis with OpenCV | :x:
@@ -114,7 +114,7 @@ Level 4 | Data analysis, payloads and more networking | exemple
 [70] | Windows token privilege escalation tool | :x:
 
 -------------------------------------------------------------------------------------------------------------------------------------------
- Level 5 | Cryptography, Reverse Engineering and Post exploitation | exemple
+ Level 5 | Cryptography, Reverse Engineering and Post exploitation | Exemple
 ------------------------------------------------|------------------------------------------|-----------------------------------------------
 [71] | Develop a code injection tool | :x:
 [72] | Develop a Worm with auto replication over email | :x:
