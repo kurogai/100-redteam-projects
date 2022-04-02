@@ -1,5 +1,5 @@
 
-<p style="text-align: center;"> 
+<p align="center"> 
     <img src="images/red.png" alt="">
 </p>
                                                                        
@@ -67,7 +67,7 @@ And remember: With great power comes... (we already know).
 | [30]    | Spam creator                                                          | :x:     |
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-| Level 3 | Advanced Network Attacks                            | Exemple |
+| Level 3 | Advanced Network Attacks                            | Example |
 |---------|-----------------------------------------------------|---------|
 | [31]    | Payload for reverse shell                           | :x:     |
 | [32]    | Payload to capture screenshots                      | :x:     |
@@ -85,7 +85,7 @@ And remember: With great power comes... (we already know).
 | [44]    | Packet Capture tool                                 | :x:     |
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-| Level 4 | Data analysis, payloads and more networking                     | Exemple |
+| Level 4 | Data analysis, payloads and more networking                     | Example |
 |---------|-----------------------------------------------------------------|---------|
 | [45]    | Packet Data analysis                                            | :x:     |
 | [46]    | Packet image analysis with OpenCV                               | :x:     |
@@ -115,7 +115,7 @@ And remember: With great power comes... (we already know).
 | [70]    | Windows token privilege escalation tool                         | :x:     |
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-| Level 5 | Cryptography, Reverse Engineering and Post exploitation                             | Exemple |
+| Level 5 | Cryptography, Reverse Engineering and Post exploitation                             | Example |
 |---------|-------------------------------------------------------------------------------------|---------|
 | [71]    | Develop a code injection tool                                                       | :x:     |
 | [72]    | Develop a Worm with auto replication over email                                     | :x:     |
