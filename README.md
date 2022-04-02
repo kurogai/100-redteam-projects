@@ -147,6 +147,9 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [99] | Antivirus evasion application | :x:
 [100] | Your own metasploit module | :x:
 -------------------------------------------------------------------------------------------------------------------------------------------
+## Honorable Mentions:
+- Kernel Mode rootkit: [reveng_rtkit](https://github.com/reveng007/reveng_rtkit) by [@reveng007](https://twitter.com/reveng007)
+
 ## Adding your examples
 
 You can make a pull request for the "Projects" directory and name the file in 
