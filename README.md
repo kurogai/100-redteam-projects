@@ -35,7 +35,7 @@ Level 1 | Basic | Exemple
 [1] | TCP chat server | :heavy_check_mark:
 [2] | UDP chat server | :x:
 [3] | Multi-threaded UDP or TCP chat server | :x:
-[4] | Server for file transfers | :x:
+[4] | Server for file transfers | :heavy_check_mark:
 [5] | Caesar Cipher tool | :x:
 [6] | TCP chat server -> The messages should be encoded with Caesar Cipher | :x:
 [7] | ROT13 Cipher | :x:
