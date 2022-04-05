@@ -48,7 +48,7 @@ Level 2 | Essential | Exemple
 [11] | Simple port scanner | :heavy_check_mark:
 [12] | Port scanner with OS fingerprint using TTL (Time To Live) | :x:
 [13] | Port scanner with port footprint (HTTP? DNS? FTP? IRC?) | :x:
-[14] | Simple Web Directory brute-forcer (Threaded) | :x:
+[14] | Simple Web Directory brute-forcer (Threaded) | :heavy_check_mark:
 [15] | Recursive Web Directory brute-forcer (Threaded peer recursion) | :x:
 [16] | Web Login bruteforce tool | :x:
 [17] | FTP Login bruteforce tool | :x:
@@ -147,6 +147,9 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [99] | Antivirus evasion application | :x:
 [100] | Your own metasploit module | :x:
 -------------------------------------------------------------------------------------------------------------------------------------------
+## Honorable Mentions:
+- Kernel Mode rootkit: [reveng_rtkit](https://github.com/reveng007/reveng_rtkit) by [@reveng007](https://twitter.com/reveng007)
+
 ## Adding your examples
 
 You can make a pull request for the "Projects" directory and name the file in 
