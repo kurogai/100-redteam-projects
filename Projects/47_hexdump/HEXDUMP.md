@@ -1,8 +1,10 @@
 # hexdump
 
 ````
-read binary data from file given in arg1
-output a table containing 10 byte rows
-containing the data conversioned to hexadecimal pairs for readability
-also we output the conversion to ascii text so we can read the strings contained in the document
+-- input:
+file from arg1
+-- output:
+file size
+table of 16 64 bytes slot rows in hex (or optional binary -b)
+conversion to ascii text containing file strings
 ````
