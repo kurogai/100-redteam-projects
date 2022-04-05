@@ -88,7 +88,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 ------------------------------------------------|------------------------------------------|-----------------------------------------------
 [45] | Packet Data analysis | :x:
 [46] | Packet image analysis with OpenCV | :x:
-[47] | Develop a hexdump tool | :x:
+[47] | Develop a hexdump tool | ✔️:
 [48] | Payload that moves the mouse cursor | :x:
 [49] | Vigenère Cipher | :x:
 [50] | Payload that starts automatically using Windows Regedit | :x:
