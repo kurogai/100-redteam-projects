@@ -33,7 +33,7 @@ Level 1 | Basic | Exemple
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
 [0] | TCP or UDP server just to receive messages | :heavy_check_mark:
 [1] | TCP chat server | :heavy_check_mark:
-[2] | UDP chat server | :x:
+[2] | UDP chat server | :heavy_check_mark:
 [3] | Multi-threaded UDP or TCP chat server | :x:
 [4] | Server for file transfers | :heavy_check_mark:
 [5] | Caesar Cipher tool | :heavy_check_mark:
