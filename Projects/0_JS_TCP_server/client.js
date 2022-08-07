@@ -47,6 +47,9 @@ const sendMessage = () => {
     if (client) {
         const message = prompt('Message to send: ');
         client.write(message);
+        client.on('data', (data) => {
+            console.log(`Message from server: ${data.toString()}`);
+        })
         menuReturn();
     }
     else {

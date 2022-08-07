@@ -8,6 +8,7 @@ server.on('connection', (s) => {
 
     s.on('data', (data) => {
         console.log(`From ${remoteAddress} - ${data}`.yellow)
+        s.write(`Message from server!`);
     });
 
     s.on('close', () => {
