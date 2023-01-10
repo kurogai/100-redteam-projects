@@ -1,5 +1,7 @@
 var encrypt = require("./encrypt")
+var arguments = process.argv
+
 
 //params 
 //first enter your file name
-encrypt("teste.txt")
+encrypt(arguments[2])
