@@ -74,7 +74,7 @@ Level 3 | Advanced Network Attacks | Exemple
 [34] | Passive web scanner | :x:
 [35] | ARP poisoning tool | :x:
 [36] | Application that creates random shortcuts on screen | :x:
-[37] | Application to encrypt a file | :x:
+[37] | Application to encrypt a file | :heavy_check_mark:
 [38] | Develop a Ransomware application | :x:
 [39] | Spam Email sender | :x:
 [40] | HTTP server for phishing | :x:
