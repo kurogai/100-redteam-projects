@@ -2,28 +2,30 @@
 
 ## :information_source:  technologies used
 
-* python
+* python3
+* flask
+* flask_httpauth
 
-## Executando o código
+## :information_source: Running the code
 
-Para executar esse código, siga os seguintes passos:
+To run this code, follow these steps:
 
-1. Instale as dependências do projeto usando o arquivo `requirements.txt`:
+1. Install the project's dependencies using the `requirements.txt` file:
 
 ```bash
 pip3 install -r requirements.txt
 ```
 
-2. Execute o script main.py:
+2. Run the main.py script:
 
 ```bash
 python3 main.py
 ```
 
-3. Para executar um comando, você pode adicioná-lo como um parâmetro na URL, juntamente com uma autenticação basica de usuario e password, segue um curl de exemplo:
+3. To run a command, you can add it as a parameter in the URL, along with a basic username and password authentication, here's an example curl:
 
 ```bash
 curl -u admin:password -X GET -i http://localhost:5000/?command=ls -la
 ```
 
-Se o comando for executado com sucesso, você verá a saída do comando no navegador. Se ocorrer algum erro, você verá uma mensagem de erro.
+If the command runs successfully, you will see the command output in the browser. If an error occurs, you will see an error message.
