@@ -40,7 +40,7 @@ Level 1 | Basic | Exemple
 [6] | TCP chat server -> The messages should be encoded with Caesar Cipher | :x:
 [7] | ROT13 Cipher | :heavy_check_mark:
 [8] | UDP Chat server -> The messages should be encoded with ROT13 Cipher | :x:
-[9] | Remote command execution | :x:
+[9] | Remote command execution | :heavy_check_mark:
 [10] | Recreate the Netcat tool | :x:
 -------------------------------------------------------------------------------------------------------------------------------------------
 Level 2 | Essential | Exemple
@@ -88,7 +88,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 ------------------------------------------------|------------------------------------------|-----------------------------------------------
 [45] | Packet Data analysis | :x:
 [46] | Packet image analysis with OpenCV | :x:
-[47] | Develop a hexdump tool | ✔️:
+[47] | Develop a hexdump tool | ✔️
 [48] | Payload that moves the mouse cursor | :x:
 [49] | Vigenère Cipher | :x:
 [50] | Payload that starts automatically using Windows Regedit | :x:
