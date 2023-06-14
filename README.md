@@ -60,7 +60,7 @@ Level 2 | Essential | Example
 [22] | Auto website comment bot | :x:
 [23] | Auto website message bot | :x:
 [24] | Web-scrapping using Regex | :x:
-[25] | Bot to collect information about someone using Google / Bing / Yahoo! | :x:
+[25] | Bot to collect information about someone using Google / Bing / Yahoo! | :heavy_check_mark:
 [26] | Simple SQLi tester | :x:
 [27] | Simple XSS tester | :x:
 [28] | Simple Wordpress brute-forcer | :x:
