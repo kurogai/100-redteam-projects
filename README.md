@@ -29,7 +29,7 @@ If you enjoy this list please take the time to recommend it to a friend and foll
 And remember: With great power comes... (we already know).
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-Level 1 | Basic | Exemple
+Level 1 | Basic | Example
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
 [0] | TCP or UDP server just to receive messages | :heavy_check_mark:
 [1] | TCP chat server | :heavy_check_mark:
@@ -42,8 +42,9 @@ Level 1 | Basic | Exemple
 [8] | UDP Chat server -> The messages should be encoded with ROT13 Cipher | :x:
 [9] | Remote command execution | :heavy_check_mark:
 [10] | Recreate the Netcat tool | :x:
+
 -------------------------------------------------------------------------------------------------------------------------------------------
-Level 2 | Essential | Exemple
+Level 2 | Essential | Example
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
 [11] | Simple port scanner | :heavy_check_mark:
 [12] | Port scanner with OS fingerprint using TTL (Time To Live) | :x:
@@ -59,14 +60,15 @@ Level 2 | Essential | Exemple
 [22] | Auto website comment bot | :x:
 [23] | Auto website message bot | :x:
 [24] | Web-scrapping using Regex | :x:
-[25] | Bot to collect information about someone using Google / Bing / Yahoo! | :x:
+[25] | Bot to collect information about someone using Google / Bing / Yahoo! | :heavy_check_mark:
 [26] | Simple SQLi tester | :x:
 [27] | Simple XSS tester | :x:
 [28] | Simple Wordpress brute-forcer | :x:
 [29] | SQLi database retriever | :x:
 [30] | Spam creator | :x:
+
 -------------------------------------------------------------------------------------------------------------------------------------------
-Level 3 | Advanced Network Attacks | Exemple
+Level 3 | Advanced Network Attacks | Example
 ------------------------------------------------|-------------------------------------------|----------------------------------------------
 [31] | Payload for reverse shell | :x:
 [32] | Payload to capture screenshots | :x:
@@ -84,7 +86,7 @@ Level 3 | Advanced Network Attacks | Exemple
 [44] | Packet Capture tool | :x:
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-Level 4 | Data analysis, payloads and more networking | Exemple
+Level 4 | Data analysis, payloads and more networking | Example
 ------------------------------------------------|------------------------------------------|-----------------------------------------------
 [45] | Packet Data analysis | :x:
 [46] | Packet image analysis with OpenCV | :x:
@@ -114,7 +116,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [70] | Windows token privilege escalation tool | :x:
 
 -------------------------------------------------------------------------------------------------------------------------------------------
- Level 5 | Cryptography, Reverse Engineering and Post exploitation | Exemple
+ Level 5 | Cryptography, Reverse Engineering and Post exploitation | Example
 ------------------------------------------------|------------------------------------------|-----------------------------------------------
 [71] | Develop a code injection tool | :x:
 [72] | Develop a Worm with auto replication over email | :x:
@@ -146,11 +148,13 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [98] | Encoded exploit | :x:
 [99] | Antivirus evasion application | :x:
 [100] | Your own metasploit module | :x:
--------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
 ## Honorable Mentions:
 - Kernel Mode rootkit: [reveng_rtkit](https://github.com/reveng007/reveng_rtkit) by [@reveng007](https://twitter.com/reveng007)
 
-## Adding your examples
+## Adding Your Examples:
 
 You can make a pull request for the "Projects" directory and name the file in 
 compliance with the following convention:
