@@ -19,6 +19,7 @@ if paramCount() < 1:
   quit("Specify Port, e.g. ./server port")
 
 let port = paramStr(1)
+echo &"[+] Server starting on Port {port}"
 
 proc newServer(): Server = Server(socket: newAsyncSocket(), clients: @[])
 proc `$`(client: Client): string =
