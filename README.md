@@ -28,6 +28,8 @@ If you enjoy this list please take the time to recommend it to a friend and foll
 
 And remember: With great power comes... (we already know).
 
+Parent Project: https://github.com/kurogai/100-mitre-attack-projects
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 Level 1 | Basic | Example
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
