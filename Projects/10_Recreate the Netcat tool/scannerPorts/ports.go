@@ -1,6 +1,5 @@
 package scannerPorts
 
-
 import (
     "fmt"
     "strconv"
@@ -8,43 +7,41 @@ import (
     "net"
 )
 
-
-func Ports(host,interval string){
-
-	// String representando o intervalo
+func Ports(host, interval string) {
+    // String representing the range
     intervalStr := interval
 
-    // Dividir a string nos hífens
+    // Split the string at hyphens
     parts := strings.Split(intervalStr, "-")
     if len(parts) != 2 {
-        fmt.Println("Intervalo inválido")
+        fmt.Println("Invalid interval")
         return
     }
 
-    // Converter as partes em números inteiros
+    // Convert the parts into integers
     start, err := strconv.Atoi(parts[0])
     if err != nil {
-        fmt.Println("Erro ao converter o início do intervalo:", err)
+        fmt.Println("Error converting the start of the interval:", err)
         return
     }
 
     end, err := strconv.Atoi(parts[1])
     if err != nil {
-        fmt.Println("Erro ao converter o final do intervalo:", err)
+        fmt.Println("Error converting the end of the interval:", err)
         return
     }
 
-    // Usar um loop for para contar de start até end
+    // Use a for loop to iterate from start to end
     for i := start; i <= end; i++ {
         ip := host
         address := fmt.Sprintf("%s:%d", ip, i)
 
         conn, err := net.Dial("tcp", address)
         if err != nil {
-            fmt.Printf("The port %d is closed \n", i)
+            fmt.Printf("Port %d is closed\n", i)
         } else {
             defer conn.Close()
-            fmt.Printf("The port %d is open\n", i)
+            fmt.Printf("Port %d is open\n", i)
         }
     }
 }
