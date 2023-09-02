@@ -41,7 +41,7 @@ Level 1 | Basic | Exemple
 [7] | ROT13 Cipher | :heavy_check_mark:
 [8] | UDP Chat server -> The messages should be encoded with ROT13 Cipher | :x:
 [9] | Remote command execution | :x:
-[10] | Recreate the Netcat tool | :x:
+[10] | Recreate the Netcat tool | :heavy_check_mark:
 -------------------------------------------------------------------------------------------------------------------------------------------
 Level 2 | Essential | Exemple
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
