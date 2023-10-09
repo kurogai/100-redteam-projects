@@ -3,7 +3,7 @@
     <img src="/images/red.png">
 </p>
                                                                        
-# 100  Red Team Projects for Pentesters and Network Managers
+# 100  Red Team Projects for Pentesters and Network Managers 
 
 Red Teaming is one of the most attractive fields in offensive security or ethical hacking. 
 Every day professionals and students are learning, creating and exploiting all types of 
