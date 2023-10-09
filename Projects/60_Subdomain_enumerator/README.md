@@ -9,7 +9,7 @@ It's a Subdomain Enumerator tool built using Python and threading.
 ## :information_source: How to use?
 ```bash
 # Clone the repository
-$ git clone https://github.com/manthanghasadiya/subdomain_enumerator.git
+$ git clone https://github.com/kurogai/100-redteam-projects.git
 
 # Enter the repository
 $ cd 100-redteam-projects\Projects\60_Subdomain_enumerator\sub_enumerator
