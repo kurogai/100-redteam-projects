@@ -10,6 +10,19 @@ def getSupportedHashTypes():
     return hashlib.algorithms_guaranteed
 
 def main():
+    print(r"""
+
+ _   _           _     _____                _    
+| | | |         | |   /  __ \              | |   
+| |_| | __ _ ___| |__ | /  \/_ __ __ _  ___| | __
+|  _  |/ _` / __| '_ \| |   | '__/ _` |/ __| |/ /
+| | | | (_| \__ \ | | | \__/\ | | (_| | (__|   < 
+\_| |_/\__,_|___/_| |_|\____/_|  \__,_|\___|_|\_\
+                                                 
+                                                
+    """)
+    print("Author: m3hank\n")
+
     usage = """
 # Usage:
     python cracker_advanced.py --hashvalue <hash_value> --hashtype <hash_type> --wordlist <path_to_wordlist>
