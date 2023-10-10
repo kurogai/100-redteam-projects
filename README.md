@@ -53,7 +53,7 @@ Level 2 | Essential | Example
 [14] | Simple Web Directory brute-forcer (Threaded) | :heavy_check_mark:
 [15] | Recursive Web Directory brute-forcer (Threaded peer recursion) | :heavy_check_mark:
 [16] | Web Login bruteforce tool | :x:
-[17] | FTP Login bruteforce tool | :x:
+[17] | FTP Login bruteforce tool | :heavy_check_mark:
 [18] | SSH Login bruteforce tool | :heavy_check_mark:
 [19] | FTP User footprint | :x:
 [20] | MYSQL User footprint | :x:
@@ -104,7 +104,7 @@ Level 4 | Data analysis, payloads and more networking | Example
 [57] | Gateway | :x:
 [58] | Powershell payload generator | :x:
 [59] | Bash payload generator | :x:
-[60] | Subdomain enumerator | :x:
+[60] | Subdomain enumerator | :heavy_check_mark:
 [61] | DNS Enumerator | :x:
 [62] | Your own interpreter | :x:
 [63] | Develop a Worm | :x:
