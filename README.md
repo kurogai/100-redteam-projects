@@ -123,7 +123,7 @@ Level 4 | Data analysis, payloads and more networking | Example
 [72] | Develop a Worm with auto replication over email | :x:
 [73] | Simple Disassembler | :x:
 [74] | Server for DDoS with multi-staged operations and multi-threaded handling of clients | :x:
-[75] | Password hash cracker | :x:
+[75] | Password hash cracker | :heavy_check_mark:
 [76] | Direct code injection exploit | :x:
 [77] | Android daemon payload | :x:
 [78] | Browser exploitation tool | :x:
