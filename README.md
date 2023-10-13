@@ -103,7 +103,7 @@ Level 4 | Data analysis, payloads and more networking | Example
 [56] | Simple firewall | :x:
 [57] | Gateway | :x:
 [58] | Powershell payload generator | :x:
-[59] | Bash payload generator | :x:
+[59] | Bash payload generator | :heavy_check_mark:
 [60] | Subdomain enumerator | :x:
 [61] | DNS Enumerator | :x:
 [62] | Your own interpreter | :x:
