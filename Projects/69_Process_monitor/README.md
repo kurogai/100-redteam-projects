@@ -4,7 +4,8 @@ This project consists of a Python process monitor that uses the `psutil` module 
 
 ## :information_source: Technologies used
 
-- Docker installed and configured on your system.
+- Docker
+- Python
 
 ## :information_source: How to use?
 ```bash
