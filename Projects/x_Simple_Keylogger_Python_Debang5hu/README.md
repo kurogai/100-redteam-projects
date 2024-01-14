@@ -24,4 +24,4 @@ to implement port forwarding so that it can be used in WAN
 
 Disclamer: Don't use it to harm other's privacy  
 
-Made By: github.com/Debang5hu
+Made By: https://github.com/Debang5hu
