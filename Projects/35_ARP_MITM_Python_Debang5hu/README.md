@@ -3,15 +3,10 @@ ARP Poisoning tool made in Python using scapy library
 How to setup:  
 
 ```
-git clone https://github.com/Debang5hu/arp-mitm.git  
-
-cd arp-mitm.git
-
 pip install -r requirements.txt
 
 sudo python3 arp-mitm.py -h
 ```
-
 
 
 It requires sudo permission to run  
