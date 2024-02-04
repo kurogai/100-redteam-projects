@@ -1,7 +1,7 @@
 # keylogger
 a simple keylogger in python that send the keystrokes to attacker's server  
 
-<h3>Usage:</h3>  
+## Usage: 
 
 change the 'SERVER_ADDRESS' to your device's IP and run the server  
 
@@ -17,11 +17,15 @@ python3 keylogger.py
 
 Works well in LAN  
 
-<h3>To Do</h3>  
+## New Feature  
 
+It fetches the clipboard data  
+
+## To Do 
+
+to log the keystrokes of virtual keyboard  
 to implement port forwarding so that it can be used in WAN  
 
 
-Disclamer: Don't use it to harm other's privacy  
+__Disclamer__: Don't use it to harm other's privacy  
 
-Made By: https://github.com/Debang5hu

