@@ -1,6 +1,6 @@
-# Scanner_with_OS
+# Port scanner with OS fingerprint using TTL (Time To Live)
 
-It's a Port scanner with OS fingerprint using TTL built using Python and scapy. 
+It's a Port scanner built using Python and Scapy.
 
 ## :information_source: Technologies used
 
