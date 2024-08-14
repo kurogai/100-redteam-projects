@@ -1,6 +1,6 @@
-# Port scanner with OS fingerprint using TTL (Time To Live)
+# WiFi Monitor
 
-It's a Port scanner built using Python and scapy. 
+It's a WiFi Monitoring tool built using Python and scapy. 
 
 ## :information_source: Technologies used
 
