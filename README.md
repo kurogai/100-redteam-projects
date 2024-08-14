@@ -2,7 +2,7 @@
 <p align="center"> 
     <img src="/images/red.png">
 </p>
-                                                                       
+
 # 100  Red Team Projects for Pentesters and Network Managers
 
 Red Teaming is one of the most attractive fields in offensive security or ethical hacking. 
@@ -48,7 +48,7 @@ Level 1 | Basic | Example
 Level 2 | Essential | Example
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
 [11] | Simple port scanner | :heavy_check_mark:
-[12] | Port scanner with OS fingerprint using TTL (Time To Live) | :x:
+[12] | Port scanner with OS fingerprint using TTL (Time To Live) | :heavy_check_mark: 
 [13] | Port scanner with port footprint (HTTP? DNS? FTP? IRC?) | :x:
 [14] | Simple Web Directory brute-forcer (Threaded) | :heavy_check_mark:
 [15] | Recursive Web Directory brute-forcer (Threaded peer recursion) | :heavy_check_mark:
