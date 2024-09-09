@@ -1,6 +1,6 @@
 # Port scanner with OS fingerprint using TTL (Time To Live)
 
-It's a Port scanner built using Python and scapy. 
+It's a Port scanner built using Python and Scapy.
 
 ## :information_source: Technologies used
 
@@ -13,7 +13,7 @@ It's a Port scanner built using Python and scapy.
 $ git clone https://github.com/kurogai/100-redteam-projects.git
 
 # Enter the repository
-$ cd 100-redteam-projects\Projects\Port_scanner_with_OS_fingerprint_using_TTL
+$ cd 100-redteam-projects\Projects\12_Port_scanner_with_OS_fingerprint_using_TTL
 
 # Open a terminal and run
 $ sudo python scanner_with_os.py <target IP address>
